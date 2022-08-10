@@ -21,8 +21,9 @@ p {
     color: #0c0c0cea;
 }
 #paragrafo1 {
-    border-style: dotted;
+     border-style: dotted;
 }
+   
 span {
     background-color: #0c0c0cea;
     font-size: 30px;
@@ -30,11 +31,11 @@ span {
     color: rgb(238, 202, 43)
 }
 img {
-    width: 70%;
+    width: 20%;
 }
 
 #imagem-1 {
-    width: 30%;
-    border: 5px; solid
+    width: 100%;
+    
 
 }
