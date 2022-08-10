@@ -1,15 +1,15 @@
 body {
     margin-top: 05%;
     text-align: center;
-    background-color: #fff1d1;
+    background-color: #8f8b83b6;
 }
 
 
 h1 {
-    background-color: #e68f3fc4;
+    background-color: #0c0c0cea;
     font-size: 80px;
     font-weight: bold;
-    color: #f0f0e7
+    color: rgb(238, 202, 43)
 }
 
 
@@ -18,13 +18,23 @@ p {
     margin-right: 10%;
     text-align: center;
     font-size: 25px;
-    color: #086788
+    color: #0c0c0cea;
+}
+#paragrafo1 {
+    border-style: dotted;
 }
 span {
-    background-color: #e68f3fc4;
+    background-color: #0c0c0cea;
     font-size: 30px;
     font-weight: bold;
-    color: #f0f0e7
+    color: rgb(238, 202, 43)
+}
+img {
+    width: 70%;
 }
 
+#imagem-1 {
+    width: 30%;
+    border: 5px; solid
 
+}
