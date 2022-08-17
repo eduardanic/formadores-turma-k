@@ -4,14 +4,12 @@ body {
     background-color: #8f8b83b6;
 }
 
-
 h1 {
     background-color: #0c0c0cea;
     font-size: 80px;
     font-weight: bold;
     color: rgb(238, 202, 43)
 }
-
 
 p {  
     margin-left: 10%;
@@ -30,12 +28,22 @@ span {
     font-weight: bold;
     color: rgb(238, 202, 43)
 }
-img {
-    width: 20%;
-}
 
 #imagem-1 {
     width: 100%;
-    
+}
+
+.Nossos-cursos {
+    text-align: left;
+    font-size: 15px;
+    color: #0c0c0cea;
+    list-style-position: inside;
 
 }
+.area1 {
+    font-size: 20px;
+    width: 30px
+}
+
+
+
